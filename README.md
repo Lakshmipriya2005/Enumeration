@@ -82,6 +82,7 @@ Top level domain expansion
 ## OUTPUT:
 
 
+![img 1](https://github.com/Lakshmipriya2005/Enumeration/assets/115525361/51311995-da55-4458-9a5b-81fa7f46e76c)
 
 
 
@@ -101,6 +102,11 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
+##output
+
+![img 3](https://github.com/Lakshmipriya2005/Enumeration/assets/115525361/d7e6b77a-332e-4236-9a3a-297ca88e539d)
+
+
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
@@ -117,6 +123,9 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ##Output
+
+ ![img 4](https://github.com/Lakshmipriya2005/Enumeration/assets/115525361/3b842162-4bf6-45cc-9721-59b95139576f)
+
   
   
 
@@ -126,6 +135,9 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+
+![img 4](https://github.com/Lakshmipriya2005/Enumeration/assets/115525361/f662ce4e-0093-46a8-ad1b-4cb3ddfacbad)
+
 
 
 ## RESULT:
