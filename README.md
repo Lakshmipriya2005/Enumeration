@@ -1,5 +1,5 @@
 # EXP.NO:03
-# DATE:
+# DATE:05.03.2024
 
 # Enumeration
 Enumeration Techniques
